@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340443564569",
+    "project_id": "shemade-bf206",
+    "storage_bucket": "shemade-bf206.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340443564569:android:102af3dded7ea93f303888",
+        "android_client_info": {
+          "package_name": "com.example.shemade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340443564569-i2a8tu60u1c9q0d8t5dvsvff4smmtbfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shemade",
+            "certificate_hash": "3e2d67bb3e215c58d4465bfde8085931385f63d5"
+          }
+        },
+        {
+          "client_id": "340443564569-7i76kqq5l3idlqr5s82ve9m8jome0dbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFzqRY2_TMIgU4mR9QPf4EToU8uvf8AJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340443564569-7i76kqq5l3idlqr5s82ve9m8jome0dbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
